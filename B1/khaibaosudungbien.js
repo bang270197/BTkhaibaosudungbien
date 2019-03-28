@@ -1,0 +1,11 @@
+let i =5;
+let f=5.5;
+let b =true;
+let s="string";
+document.write("i= "+i);
+document.write('<br/>');
+document.write("f= "+f);
+document.write('<br/>');
+document.write("b= "+b);
+document.write('<br/>');
+document.write("s= "+s);
